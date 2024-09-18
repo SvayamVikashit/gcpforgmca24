@@ -1,2 +1,3 @@
 # Google App Engine generated folder
 appengine-generated/
+helloworld/src/test/java/com/gcp/practical/helloworld/HelloworldApplicationTests.java
